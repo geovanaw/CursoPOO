@@ -2,7 +2,7 @@ package Animais;
 
 public class Cachorro { //Criação da classe cachorro
     // Atributos abaixo
-    public String nome;
+    public String   nome;
     public String cor;
     public int altura;
     public double peso;
